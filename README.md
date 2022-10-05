@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @zeeshan
-- 👀 I’m interested in software and game development.
-- 🌱 I’m currently learning C# .Net and Unity. I am also working on a personal crypto/stock application using Java with the use of Git.
-- 💞️ I’m looking to collaborate on software projects or games.
+- 👋 I’m @zeeshan
+- 👀 Interested in software & game development.
+- 🌱 Proficieny - Java, C# .NET, Python, PHP, and MySQL
+- 💞️ Looking to collaborate on software projects or games.
 - 📫 How to reach me message me on Github or send a message on Linkedin.
 
 <!---
