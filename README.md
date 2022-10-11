@@ -1,6 +1,15 @@
 - 👋 I’m @zeeshan
 - 👀 Interested in software & game development.
-- 🌱 Proficieny - Java, C# .NET, Python, PHP, and MySQL
+- 🌱 Tech stack:
+      • Java, C#, and Python
+      • Spring Framework (Spring Boot, Spring MVC)
+      • TDD/BDD - JUnit
+      • JavaScript, HTML, CSS, Bootstrap
+      • Web Services – RESTful APIs
+      • MySQL, PostgreSQL
+      • Containerisation – Docker
+      • Cloud - Apache XAMPP, LAMP, JDBC, and MongoDB
+      • Version Control – GitHub
 - 💞️ Looking to collaborate on software projects or games.
 - 📫 How to reach me message me on Github or send a message on Linkedin.
 
