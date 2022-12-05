@@ -13,7 +13,7 @@
 - 💞️ Looking to collaborate on software projects or games.
 - 📫 How to reach me message me on Github or send a message on Linkedin.
 
-My projects can also be viewed on my website graphically as a reference. zshstudios.com
+My projects can also be viewed on my website graphically as a reference, the link is on my profile page.
 
 <!---
 zeeshan457/zeeshan457 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
