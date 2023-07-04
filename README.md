@@ -1,6 +1,5 @@
-<p align="center">
-    <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Hi there, I'm Zeeshan">
-</p>
+<h1 align="center">Hi there, I'm Zeeshan</h1>
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
