@@ -1,6 +1,6 @@
 <p align="center">
-<h1 zeeshan </h1>
-  </p>
+  <h1>zeeshan</h1>
+</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
