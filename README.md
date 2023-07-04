@@ -22,12 +22,6 @@
 
 <img align = "left" width = "47%" src = "https://github-readme-stats-sigma-five.vercel.app/api?username=zeeshan457&show_icons=true&theme=radical" />
 
-  <summary><h2>🛠️ Zeeshan's Coding Journey</h2>
-  
-  <p> sdasdsadasd </p>
-  
-  
-  </summary>
 
 
 
