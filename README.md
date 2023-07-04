@@ -1,6 +1,6 @@
-<h3 align="center">
+<p align="center">
   <h3>Hi there, I'm Zeeshan</h3>
-</h3>
+</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
