@@ -2,6 +2,8 @@
 
 **`Software Engineer`**
 
+Greetings! I am deeply passionate about both full stack development and machine learning. The art of creating seamless web applications, combining front-end and back-end technologies, has always intrigued me. Additionally, the power of machine learning to extract insights from data and make intelligent predictions excites me. The intersection of these fields is where my true passion lies, as I aim to build intelligent web applications that enhance user experiences. I am eager to contribute my skills and knowledge to this dynamic and ever-evolving domain.
+
 <img align = "left" width = "47%" src = "https://github-readme-stats-sigma-five.vercel.app/api?username=zeeshan457&show_icons=true&theme=radical" />
 
 <!-- <img align = "left" width = "47%" src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zeeshan457&layout=compact" />
