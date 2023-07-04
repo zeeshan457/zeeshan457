@@ -1,5 +1,11 @@
 # Hi there, I'm Zeeshan
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
 **`Software Engineer`**
 
 Greetings! I am deeply passionate about both full stack development and machine learning. The art of creating seamless web applications, combining front-end and back-end technologies, has always intrigued me. Additionally, the power of machine learning to extract insights from data and make intelligent predictions excites me. The intersection of these fields is where my true passion lies, as I aim to build intelligent web applications that enhance user experiences. I am eager to contribute my skills and knowledge to this dynamic and ever-evolving domain.
