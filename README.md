@@ -1,5 +1,5 @@
 <p align="center">
-  <h3>Hi there, I'm Zeeshan</h3>
+    <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Hi there, I'm Zeeshan">
 </p>
 
 <p align="center">
