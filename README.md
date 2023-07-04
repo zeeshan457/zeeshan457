@@ -1,8 +1,6 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
-<h3 zeeshan
+<h1 zeeshan </h3>
   </p>
-</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
