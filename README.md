@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Constantly%20Learning%20.%20.%20.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Crafting%20digital%20solutions%20with%20code%20mastery  %20.%20.%20.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-**`Empowering the digital future through innovative software engineering`**
+**`Empowering the digital future through innovative software`**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshan457&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan457" /> </p>
 
 <h3 align="center">Greetings! I am deeply passionate about both full stack development and machine learning. The art of creating seamless web applications, combining front-end and back-end technologies, has always intrigued me. Additionally, the power of machine learning to extract insights from data and make intelligent predictions excites me. The intersection of these fields is where my true passion lies, as I aim to build intelligent web applications that enhance user experiences. I am eager to contribute my skills and knowledge to this dynamic and ever-evolving domain.</h3>
