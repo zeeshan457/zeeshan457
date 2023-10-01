@@ -10,8 +10,6 @@
 
 **`Greetings! I am deeply passionate about both full stack development and machine learning. The art of creating seamless web applications, combining front-end and back-end technologies, has always intrigued me. Additionally, the power of machine learning to extract insights from data and make intelligent predictions excites me. The intersection of these fields is where my true passion lies, as I aim to build intelligent web applications that enhance user experiences. I am eager to contribute my skills and knowledge to this dynamic and ever-evolving domain.`**
 
-<h3 align="center">Greetings! I am deeply passionate about both full stack development and machine learning. The art of creating seamless web applications, combining front-end and back-end technologies, has always intrigued me. Additionally, the power of machine learning to extract insights from data and make intelligent predictions excites me. The intersection of these fields is where my true passion lies, as I aim to build intelligent web applications that enhance user experiences. I am eager to contribute my skills and knowledge to this dynamic and ever-evolving domain.</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/zeeshan-mahmood-37467723b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeeshan-mahmood-37467723b/" height="30" width="40" /></a>
