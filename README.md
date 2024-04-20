@@ -5,8 +5,9 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Code%20and%20Innovate%20  &font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshan457&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan457" /> </p>
-https://portfolio-psi-brown-26.vercel.app/
+<a href="https://portfolio-psi-brown-26.vercel.app/">
+    <img src="https://komarev.com/ghpvc/?username=zeeshan457&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan457" style="display: block; margin-left: auto; margin-right: auto;" />
+</a>
 
 **`Empowering the digital future through innovative software`**
 
