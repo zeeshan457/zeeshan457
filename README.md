@@ -2,13 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=CODE%20AND%20INNOVATE%20  &font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20  &font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<a href="https://portfolio-psi-brown-26.vercel.app/" style="display: block; text-align: center;">Portfolio</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshan457&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan457" /> </p>
-
-**`Empowering the digital future through innovative software`**
 
 **`Hello! I'm very passionate about both full stack development and machine learning. I find joy in crafting innovative web applications and using machine learning to improve user experiences. Eager to contribute my skills to this industry.`**
 
