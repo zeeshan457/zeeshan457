@@ -1,4 +1,4 @@
-<h1 align="center">ZEESHAN MAHMOOD</h1>
+<h1 align="center">ZEESHAN MAHMOOD GITHUB</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
