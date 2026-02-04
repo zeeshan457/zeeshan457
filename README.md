@@ -1,9 +1,9 @@
-<h1 align="center">ZEESHAN's GITHUB</h1>
+<h1 align="center">ZEESHAN'S GITHUB</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshan457&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan457" /> </p>
 
-**`Hello! I'm very passionate about both full stack development and machine learning. I find joy in crafting innovative web applications and using machine learning to improve user experiences. Eager to contribute my skills to this industry.`**
+**`Hi! I’m a developer focused on full-stack engineering and machine learning. I enjoy building end-to-end web applications and using data-driven models to enhance user experience and performance. Always learning, always building..`**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
